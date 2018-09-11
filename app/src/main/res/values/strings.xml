@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Happy Birthday Darling</string>
+    <string name="personal_msg">My Personal Message</string>
+    <string name="pics">Click for Pic</string>
+    <string name="video">What is dis?</string>
+
+    <string name="msg1">A wonderful birthday to a wonderful girl like you. You gave my life a new meaning and I am very much thankful about it. All I want is for you to be successful in every area of your life. I will do everything it takes just to make you happy. Happiest birthday my love!</string>
+    <string name="msg2">You walk into my life, unexpectedly and some weeks later, I found myself falling deeper and deeper in love with the person you are, happy birthday, fiancé.</string>
+    <string name="msg3">On birthdays people wish for many things. For yours, I hope that you only want one: that you get to live for many, many years so that we can spend them together.</string>
+
+
+
+    <string name="app_description">A library that shows a beautiful and customizable Material dialog with header and animation.</string>
+    <string name="action_about">About</string>
+
+    <string name="section_style_1">Style 1</string>
+    <string name="section_style_2">Style 2</string>
+
+    <string name="btn_style_header_1">Header with green color, icon, title, description and animations</string>
+    <string name="btn_style_header_2">Header with grey color, icon and description</string>
+    <string name="btn_style_header_3">Header with image, icon, title, description and animations</string>
+    <string name="btn_style_header_4">Header with image, title and description</string>
+    <string name="btn_style_header_5">Header with green color, icon, title, description, animations and custom view</string>
+
+    <string name="btn_style_header_6">Header with green color, title, description and animations</string>
+    <string name="btn_style_header_7">Header with image, title and description</string>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <string name="circle">
+M527.023,71.8233 C780.213,71.8233,985.464,277.075,985.464,530.265
+C985.464,783.455,780.213,988.707,527.023,988.707
+C273.832,988.707,68.5809,783.455,68.5809,530.265
+C68.5809,277.075,273.832,71.8233,527.023,71.8233 Z
+  </string>
+
+    <string-array name="red">
+        <item>#ba0303</item>
+        <item>#ff7878</item>
+        <item>#9e3535</item>
+        <item>#fd3939</item>
+    </string-array>
+
+    <string-array name="path">
+        <item>com.github.glomadrian.grav.generator.animation.PathAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.BallSizeAnimator</item>
+    </string-array>
+</resources>

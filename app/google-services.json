@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313520612755",
+    "firebase_url": "https://sreeja-dd84c.firebaseio.com",
+    "project_id": "sreeja-dd84c",
+    "storage_bucket": "sreeja-dd84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313520612755:android:2a28753c9aff32a9",
+        "android_client_info": {
+          "package_name": "com.example.revuri.sreeja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313520612755-grairnirnpv2cvg693m901k200n72uhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revuri.sreeja",
+            "certificate_hash": "bee50bbe5bd35aa4865481e646797f83f8658322"
+          }
+        },
+        {
+          "client_id": "313520612755-s7bj1imebom3utrkrp358q66fjlq7bfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhezOZ5frESfZ47p3dzBxAu5TkcNCMqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313520612755-s7bj1imebom3utrkrp358q66fjlq7bfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

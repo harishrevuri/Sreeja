@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_personal_msg"
+        android:icon="@drawable/ic_message_green_24dp"
+        android:title="@string/personal_msg" />
+
+    <item
+        android:id="@+id/navigation_pics"
+        android:icon="@drawable/ic_photo_library_green_24dp"
+        android:title="@string/pics" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_featured_video_green_24dp"
+        android:title="@string/video" />
+
+</menu>
